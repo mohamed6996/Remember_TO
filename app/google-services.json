@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727907723743",
+    "firebase_url": "https://rememberto-e2e03.firebaseio.com",
+    "project_id": "rememberto-e2e03",
+    "storage_bucket": "rememberto-e2e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727907723743:android:25fdee32d0b1dae8",
+        "android_client_info": {
+          "package_name": "com.example.mohamedali.rememberto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727907723743-ai577u9j1vpor8i4n8u28r662uiqrqrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDi6Kk218SVUyhFCzHA5-KHHyS_AugTxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
